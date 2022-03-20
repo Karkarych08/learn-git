@@ -1,1 +1,1 @@
-Hello Spike! How are you?
+Нет кода Нет боли
