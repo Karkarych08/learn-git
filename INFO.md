@@ -1,2 +1,1 @@
-I am awesome
-Something new
+Эксперементируем с amend
