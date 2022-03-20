@@ -1,1 +1,1 @@
-I am just learn a git
+Hello Spike! How are you?
